@@ -1,0 +1,83 @@
+.similar-job-card {
+  background-color: #202020;
+  border-radius: 10px;
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'Roboto';
+}
+.logo-title-star-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 5px;
+}
+
+.company-logo {
+  height: 60px;
+  width: 60px;
+  margin-right: 5px;
+}
+.title-rating-container {
+  display: flex;
+  flex-direction: column;
+  font-size: 10px;
+  color: #ffffff;
+  justify-content: center;
+  font-weight: 300;
+  font-family: 'Roboto';
+  margin-left: 4px;
+}
+.rating {
+  font-size: 15px;
+  margin-top: 14px;
+  margin-left: 5px;
+}
+.star {
+  height: 15px;
+  width: 15px;
+  color: #fbbf24;
+  margin-right: 4px;
+}
+.fonts {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  margin-right: 10px;
+  font-weight: 200px;
+}
+.row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.star-row {
+  display: flex;
+  flex-direction: row;
+}
+.location11 {
+  margin-left: 6px;
+}
+.job-para {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.des-name {
+  color: #ffffff;
+}
+.location-job-container {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  margin-right: 10px;
+}
+.location-container {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  margin-right: 20px;
+}

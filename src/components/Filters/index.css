@@ -1,0 +1,28 @@
+.emp-type-sal-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  list-style-type: none;
+}
+.filter-container {
+  display: flex;
+  flex-direction: column;
+}
+.check-box {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+  margin-left: 0px;
+}
+.filter-heading {
+  color: #ffffff;
+  font-size: 20px;
+}
+.label {
+  color: #ffffff;
+  margin-left: 5px;
+}
+.hr-line {
+  width: 300px;
+}
